@@ -72,15 +72,15 @@ streamlit run app.py
 
 ### Home Page
 
-![Home Page](Readme_images/home.png)
+![Home](ReadmeImage/home.png)
 
 ### Mask Detection
 
-![Mask Detection](Readme_images/mask-detected.png)
+![Mask](ReadmeImage/Mask.png)
 
 ### No Mask Detection
 
-![No Mask Detection](Readme_images/no-mask-detected.png)
+![No Mask](ReadmeImage/No%20Mask.png)
 
 ## 🎯 Output
 
