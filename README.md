@@ -72,7 +72,7 @@ streamlit run app.py
 
 ### Home Page
 
-![Home](ReadmeImage/home.png)
+![Home](ReadmeImage/Home.png)
 
 ### Mask Detection
 
